@@ -1,0 +1,15 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”Î”Åüÿÿÿÿ
+P
+java:S1854R":Remove this useless assignment to local variable "config".(çÄ¸€
+A
+java:S1481R"+Remove this unused "config" local variable.(çÄ¸€
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+B
+java:S1068",Remove this unused "maxTotal" private field.(ˆ¯»
+A
+java:S1068	"+Remove this unused "maxIdle" private field.(±š„¥
+F
+java:S1068
+"+Remove this unused "minIdle" private field.(ş´Ä®øÿÿÿÿ

@@ -1,0 +1,29 @@
+
+B
+java:S1444",Make this "public static DRIVER" field final(¸ùÖå
+D
+java:S1444")Make this "public static URL" field final(£µ¯ùÿÿÿÿ
+I
+java:S1444".Make this "public static USERNAME" field final(Ê¨äÈúÿÿÿÿ
+D
+java:S1444".Make this "public static PASSWORD" field final(šØ¹Ç
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êïÍæøÿÿÿÿ
+h
+java:S1104"RMake DRIVER a static final constant or non-public and provide accessors if needed.(¸ùÖå
+j
+java:S1104"OMake URL a static final constant or non-public and provide accessors if needed.(£µ¯ùÿÿÿÿ
+o
+java:S1104"TMake USERNAME a static final constant or non-public and provide accessors if needed.(Ê¨äÈúÿÿÿÿ
+j
+java:S1104"TMake PASSWORD a static final constant or non-public and provide accessors if needed.(šØ¹Ç
+g
+java:S3008"QRename this field "DRIVER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ùÖå
+i
+java:S3008"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£µ¯ùÿÿÿÿ
+n
+java:S3008"SRename this field "USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¨äÈúÿÿÿÿ
+i
+java:S3008"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šØ¹Ç
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(‘˜‹úÿÿÿÿ
+L
+java:S2696I"6Make the enclosing method "static" or remove this set.(şÃÏ§

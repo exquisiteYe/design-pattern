@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûí éıÿÿÿÿ
+f
+java:S1854"IRemove this useless assignment to local variable "userControllerDynamic".(’‰ãæ8éëôàÛ/
+j
+java:S1854"HRemove this useless assignment to local variable "userControllerExtend".(±Õ®¹üÿÿÿÿ8ÆÁÙàÛ/
+[
+java:S1481"9Remove this unused "userControllerExtend" local variable.(±Õ®¹üÿÿÿÿ8­½ÚàÛ/
+W
+java:S1481":Remove this unused "userControllerDynamic" local variable.(’‰ãæ8ÓøõàÛ/

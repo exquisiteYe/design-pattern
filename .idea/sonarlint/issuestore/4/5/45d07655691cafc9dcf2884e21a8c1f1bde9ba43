@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅŞâÏşÿÿÿÿ
+M
+java:S1068"2Remove this unused "chessPieceUnit" private field.(×ºìúÿÿÿÿ
+C
+java:S1068"-Remove this unused "positionX" private field.(´¨Ü˜
+C
+java:S1068"-Remove this unused "positionY" private field.(‰å†

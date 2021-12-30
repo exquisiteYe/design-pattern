@@ -1,0 +1,24 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬ïÌ
+a
+java:S2147#"DCombine this catch with the one at line 33, which has the same body.(É®£8Îú÷Şß/
+E
+java:S1659"#Declare "ename" on a separate line.(ô»ÁÎÿÿÿÿÿ8Îú÷Şß/
+E
+java:S1659"#Declare "price" on a separate line.(ô»ÁÎÿÿÿÿÿ8Îú÷Şß/
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8Ïú÷Şß/
+N
+java:S1135""2Complete the task associated to this TODO comment.(ËÑ¿R8Òú÷Şß/
+N
+java:S1135$"2Complete the task associated to this TODO comment.(ËÑ¿R8Óú÷Şß/
+N
+java:S1135*"2Complete the task associated to this TODO comment.(ËÑ¿R8Óú÷Şß/
+N
+java:S11350"2Complete the task associated to this TODO comment.(ËÑ¿R8Óú÷Şß/
+J
+java:S1481"(Remove this unused "eid" local variable.(ô»ÁÎÿÿÿÿÿ8Ôú÷Şß/
+L
+java:S1481"*Remove this unused "ename" local variable.(ô»ÁÎÿÿÿÿÿ8Ôú÷Şß/
+L
+java:S1481"*Remove this unused "price" local variable.(ô»ÁÎÿÿÿÿÿ8Ôú÷Şß/

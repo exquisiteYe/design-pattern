@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßƒÊ
+j
+java:S2259"HA "NullPointerException" could be thrown; "otherStyle" is nullable here.(ŸõóÎıÿÿÿÿ8–‘Ñ´İ/
+r
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8—‘Ñ´İ/
+A
+java:S2097"Add a type test to this method.(İ¢êÍıÿÿÿÿ8‘Ñ´İ/

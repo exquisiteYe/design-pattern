@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(å¥ûñÿÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+H
+java:S1128"2Remove this unused import 'java.util.Enumeration'.(»îÜ®
+b
+java:S1128"GRemove this unused import 'org.apache.ibatis.ognl.IteratorEnumeration'.(†˜ƒâøÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "d".(íšÙÎ
+<
+java:S1481"&Remove this unused "d" local variable.(íšÙÎ

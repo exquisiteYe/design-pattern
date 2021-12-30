@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î¸÷„úÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "userCache".(Çé¯Ú
+D
+java:S1481".Remove this unused "userCache" local variable.(Çé¯Ú

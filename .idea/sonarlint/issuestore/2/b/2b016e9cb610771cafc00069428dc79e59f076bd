@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅŞâÏşÿÿÿÿ
+t
+java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(é­‰Ôşÿÿÿÿ8ûş´İ/
+H
+java:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ8€ÿ´İ/
+E
+java:S1068	"(Remove this unused "text" private field.(š²ûÁ8€ÿ´İ/
+F
+java:S1068
+")Remove this unused "color" private field.(Ë²‘8€ÿ´İ/

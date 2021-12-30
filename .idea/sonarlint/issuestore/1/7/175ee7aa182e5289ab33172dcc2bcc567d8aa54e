@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î¸÷„úÿÿÿÿ
+O
+java:S1068"-Remove this unused "cacheData" private field.(˜¦ÜÄýÿÿÿÿ8¨ßÎÿß/
+N
+java:S1068",Remove this unused "eviction" private field.(ßš²Åøÿÿÿÿ8¨ßÎÿß/
