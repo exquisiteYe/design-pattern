@@ -141,16 +141,12 @@ l
 <src/main/java/xyDemo/studyComposite/exp1/FileSystemNode.java,9/7/97e75af13be6c071c01ce48b8a93b05210046b0d
 b
 2src/main/java/xyDemo/studyComposite/exp1/File.java,3/0/303508b5fe2fb29feb6c56324d5e2d275db3c367
-g
-7src/main/java/xyDemo/studyComposite/exp1/Directory.java,a/f/afd5d44bfa833ea48041f5b534fb35727ac42266
 o
 ?src/main/java/xyDemo/studyComposite/exp1/FileSystemNodeOld.java,4/4/44d6b88db21ca1b8a640acd3e5f662495e3d2948
 f
 6src/main/java/xyDemo/studyTemplate/ConcreteClass2.java,d/3/d378434f8f812ffe4c7505fecd902e6ead4e6e73
 f
 6src/main/java/xyDemo/studyTemplate/ConcreteClass1.java,b/9/b9179c100aed73d24c0b251d49e04887820d565f
-K
-src/test/java/TestUnit.java,7/1/7140fe4c27a40afe6337f2800daf22fafb513c0d
 O
 src/test/java/TestOptional.java,0/1/011e59540f202dee66fa84b7b107a822b8ac5ac8
 e
@@ -161,8 +157,6 @@ c
 3src/main/java/xyDemo/studyCallback/exp1/AClass.java,9/4/948161a2c502a338b398131aed40a77832946b09
 f
 6src/main/java/xyDemo/studyCallback/exp1/ICallback.java,5/a/5ac1066237bf8c9a7d62e6cd8c4a8363f2517092
-R
-"src/main/java/xyDemo/dto/User.java,f/6/f6a25edb8ec48019d25fb32adad7dcf2bf5391b0
 e
 5src/main/java/xyDemo/studyCallback/exp2/JdbcDemo.java,5/2/52280759c6ad3ec69a9cbefbb6af2efd27c4f873
 m
