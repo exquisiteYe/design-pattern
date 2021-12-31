@@ -12,4 +12,9 @@ public class TestTemp extends TestUnit{
                 .collect(Collectors.toSet());
 
     }
+
+    @Test
+    public void test2(){
+        return;
+    }
 }
