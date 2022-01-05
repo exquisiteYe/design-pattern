@@ -281,3 +281,17 @@ e
 5src/main/java/xyDemo/studyState/step4/SuperMario.java,9/0/90afb26c3642b044307560e090588c5817cb4b3d
 e
 5src/main/java/xyDemo/studyState/step4/SmallMario.java,7/f/7f220942f1f3ce7ea79168088854620a6c0999a9
+l
+<src/main/java/xyDemo/studyState/step3/MarioStateMachine.java,1/e/1efb60b379eb6711461b352ebdf0234aa9605f53
+R
+"src/main/java/xyDemo/dto/User.java,f/6/f6a25edb8ec48019d25fb32adad7dcf2bf5391b0
+a
+1src/main/java/xyDemo/studyState/step4/IMario.java,b/2/b2065758d8a5b68ae5d35a039c3b9652edc70948
+l
+<src/main/java/xyDemo/studyState/step4/MarioStateMachine.java,4/2/4246f3f72b6fb8171860c84b91a483bd967c7657
+K
+src/test/java/TestUnit.java,7/1/7140fe4c27a40afe6337f2800daf22fafb513c0d
+g
+7src/main/java/xyDemo/studyComposite/exp1/Directory.java,a/f/afd5d44bfa833ea48041f5b534fb35727ac42266
+K
+src/test/java/TestTemp.java,0/d/0dc7902714f2f2e8eb2b4f50780608bbb89d48e7
