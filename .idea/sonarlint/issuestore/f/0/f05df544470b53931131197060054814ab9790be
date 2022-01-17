@@ -1,0 +1,7 @@
+
+T
+java:S1172">Remove these unused method parameters "telephone", "password".(³Èšó
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ÂĞûÿÿÿÿ8×é†Šò/
+@
+java:S2119	"Save and re-use this "Random".(µåİ‘øÿÿÿÿ8Á ‚Šò/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ŸÍÛ

@@ -54,7 +54,40 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/jep/jep -->
+        <dependency>
+            <groupId>jep</groupId>
+            <artifactId>jep</artifactId>
+            <version>2.24</version>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.70</version>
+        </dependency>
+        <!--增加eventbus-->
+        <dependency>
+            <groupId>org.greenrobot</groupId>
+            <artifactId>eventbus</artifactId>
+            <version>3.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>22.0</version>
+        </dependency>
+
     </dependencies>
+<!--    <resources>-->
+<!--        <resource>-->
+<!--            <directory>lib</directory>-->
+<!--            <targetPath>BOOT-INF/lib/</targetPath>-->
+<!--            <includes>-->
+<!--                <include>**/*.jar</include>-->
+<!--            </includes>-->
+<!--        </resource>-->
+<!--    </resources>-->
+
 
 
 </project>

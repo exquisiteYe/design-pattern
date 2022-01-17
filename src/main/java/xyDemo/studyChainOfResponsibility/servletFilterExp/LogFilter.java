@@ -22,5 +22,8 @@ public class LogFilter implements Filter {
     public void destroy() {
         // 在销毁Filter时自动调用
     }
+
+    public static void main(String[] args) {
+    }
 }
 

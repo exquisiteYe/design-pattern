@@ -1,0 +1,8 @@
+
+X
+java:S1854"=Remove this useless assignment to local variable "settingPO".(ŞÁÉÜşÿÿÿÿ
+`
+java:S3252"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(ŞÁÉÜşÿÿÿÿ
+I
+java:S1481".Remove this unused "settingPO" local variable.(ŞÁÉÜşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÔ’áùÿÿÿÿ
