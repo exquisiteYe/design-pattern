@@ -1,0 +1,12 @@
+
+U
+java:S2755"3Disable access to external entities in XML parsing.(Ûë–òıÿÿÿÿ8´Ôõé/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½–Â
+]
+java:S2259"GA "NullPointerException" could be thrown; "classNode" is nullable here.(Ò‚Â˜
+v
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "obj".(ôÄ‡úÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ƒÔ³œşÿÿÿÿ
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ü¢ÿó8Üº”‚é/
