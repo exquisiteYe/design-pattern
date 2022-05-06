@@ -1,3 +1,4 @@
 
+Ž
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8Ñ”ü“ú/
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°˜â×øÿÿÿÿ
-]	java:S125"<This block of commented-out lines of code should be removed.(¤ŽØúûÿÿÿÿ8ü‚°‰é/

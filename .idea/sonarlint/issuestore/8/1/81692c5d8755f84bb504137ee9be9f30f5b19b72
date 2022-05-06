@@ -1,7 +1,7 @@
 
-W
-java:S1191"5Use classes from the Java API instead of Sun classes.(Ö×ˆîþÿÿÿÿ8›š«ØÝ/
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥­Ûàûÿÿÿÿ
 S	java:S106	"9Replace this use of System.out or System.err by a logger.(ôËž¢øÿÿÿÿ
 M
 java:S1135"2Complete the task associated to this TODO comment.(ÞÀ¥Õþÿÿÿÿ
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ö×ˆîþÿÿÿÿ8›š«ØÝ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥­Ûàûÿÿÿÿ
