@@ -215,8 +215,6 @@ g
 7src/main/java/xyDemo/studyComposite/exp1/Directory.java,a/f/afd5d44bfa833ea48041f5b534fb35727ac42266
 g
 7src/main/java/xyDemo/studyIterator/IteratorDefDemo.java,9/b/9b8badf77167a0fff321fc58a72c06921bb17dab
-i
-9src/main/java/xyDemo/studyIterator/ArrayIteratorDemo.java,a/7/a7df473e6c8a3bd1c51361e61eddf3b0642a2831
 `
 0src/main/java/xyDemo/studyIterator/TestDemo.java,a/8/a86f3881b93ffaa43c2f0dc60607fc2249a274f1
 \
@@ -435,8 +433,6 @@ l
 <src/main/java/xyDemo/studyObserver/exp1/ConcreteSubject.java,5/5/55f6a4219d56174df2dc79c454022bd750819e6e
 p
 @src/main/java/xyDemo/studyObserver/exp1/ConcreteObserverOne.java,8/1/81692c5d8755f84bb504137ee9be9f30f5b19b72
-e
-5src/main/java/xyDemo/studyMemento/exp1/Caretaker.java,9/8/989efe68b6e141f40f708f92ed2ce35ac8f0c14d
 j
 :src/main/java/xyDemo/studyMemento/exp1/MementoPattern.java,4/8/482463a999e2b3f7daa275592587409b3e4d18ae
 o
