@@ -435,8 +435,6 @@ l
 <src/main/java/xyDemo/studyObserver/exp1/ConcreteSubject.java,5/5/55f6a4219d56174df2dc79c454022bd750819e6e
 p
 @src/main/java/xyDemo/studyObserver/exp1/ConcreteObserverOne.java,8/1/81692c5d8755f84bb504137ee9be9f30f5b19b72
-e
-5src/main/java/xyDemo/studyMemento/exp1/Caretaker.java,9/8/989efe68b6e141f40f708f92ed2ce35ac8f0c14d
 j
 :src/main/java/xyDemo/studyMemento/exp1/MementoPattern.java,4/8/482463a999e2b3f7daa275592587409b3e4d18ae
 o
