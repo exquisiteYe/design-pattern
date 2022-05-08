@@ -563,7 +563,3 @@ l
 <src/main/java/xyDemo/studyState/step4/MarioStateMachine.java,4/2/4246f3f72b6fb8171860c84b91a483bd967c7657
 d
 4src/main/java/xyDemo/studyState/step3/FireMario.java,c/7/c705678db13b02896472b2d49649b47f3c89064c
-a
-1src/main/java/xyDemo/studyState/step3/IMario.java,5/5/55f98e600ab544b2baf2ef14da8688b42faa3c19
-d
-4src/main/java/xyDemo/studyState/step3/CapeMario.java,d/c/dcb98c604fa14950fb522681b82a664a9a897272
