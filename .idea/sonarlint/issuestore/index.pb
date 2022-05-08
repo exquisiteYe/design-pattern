@@ -465,8 +465,6 @@ x
 Hsrc/main/java/xyDemo/studyObserver/expEventBus/step5/UserController.java,b/c/bc127659d267392a919c47b2382c2be9e9bbc21e
 Y
 )src/main/java/xyDemo/testWeb/cWorker.java,8/3/83ef22b4e14f2109dc845651754d14b89540b6e0
-U
-%src/main/java/xyDemo/testWeb/Dog.java,b/3/b3f2c4837da57ac8cb6a51f0be37e711cfbe6ca6
 `
 0src/main/java/xyDemo/testWeb/CompressObject.java,a/d/ad2ed27c0f86459c586f76baf05879ab8f15dd83
 x
