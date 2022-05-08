@@ -15,7 +15,7 @@ public class Dog implements Serializable {
 
     Dog(){}
 
-    public String getName() {
+    public String getDogName() {
         return "Doge's is " + name;
     }
 
