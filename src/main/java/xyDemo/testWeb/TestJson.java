@@ -31,5 +31,7 @@ public class TestJson {
 
     }
 
+    public void noUse(){}
+
 }
 
