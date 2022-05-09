@@ -13,6 +13,12 @@ public class Dog implements Serializable {
         this.color = color;
     }
 
+    Dog(){}
+
+    public String getDogName() {
+        return "Doge's is " + name;
+    }
+
     @Override
     public String toString() {
         return "Dog{" +
